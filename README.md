@@ -1,5 +1,5 @@
 ```markdown
-## **README.md Descontraído para sua Aplicação**
+## Desvendando Atletas - Imersão Dev com Google Gemini
 
 ### **Título: Busca de Atletas - Porque todo mundo ama esportes!**
 
